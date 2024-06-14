@@ -1,1 +1,3 @@
-# PractiseGame
+# Tic Tac Toe
+<p>Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. </p>
+<img src="[pic_trulli.jpg](https://www.google.com/imgres?q=tic%20tac%20toe&imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Ftic-tac-toe-icon-1024x1024-bmwf454z.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F24485%2Ftic-tac-toe&docid=DCufzhlxGF-TyM&tbnid=bl3c2QtFOmmCqM&vet=12ahUKEwi48vXM1NuGAxX9d2wGHWKDCHAQM3oECHwQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwi48vXM1NuGAxX9d2wGHWKDCHAQM3oECHwQAA)" alt="Tic Tac Toe">
